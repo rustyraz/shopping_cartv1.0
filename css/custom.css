@@ -1,0 +1,24 @@
+.container{
+	padding-top: 10px;
+}
+.required_field{
+	font-size:0.85em;
+	color: #cccccc;
+}
+.has-error{
+	color:red;
+}
+.error_section{
+	display: none;
+	color: red;
+}
+
+
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.navbar {
+  margin-bottom: 20px;
+}
